@@ -1,0 +1,69 @@
+<doctype html>
+    <html>
+        <head>
+            <h1>Formulário</h1>
+              <form>
+                 <form>
+                <div>
+                <label>Nome:</label>
+                 <input type="text">
+                </div>
+                 <div>
+                     <label>Email:</label>
+                     <input type="email">
+                 </div>
+                 <div>
+                     <label>Idade:</label>                         
+                      <input type="text">
+                 </div>
+                 <div>
+                  <label>Telefone:</label>
+                    <input type="password">    
+                 </div> 
+                 <div>
+                 <label>Matricula:</label>
+                    <input type="password"> 
+                 </div>         
+                  <input type="submit" value="Enviar">
+                  <input type="reset" value="Limpar">
+
+                         </form>
+                         <div>
+                        <label>Turma:</label>
+                         </div>
+                         <div>
+<input type="checkbox"> 2A Informática
+                         </div>
+                         <div>
+<input type="checkbox"> 2B Informática
+                         </div>
+                         <div>
+<input type="checkbox"> 2A Redes de Computadores
+                         </div>
+                         <div>
+<input type="checkbox"> 2B Redes de Computadores
+                         </div>
+                        <div>
+<label>Turno:</label>
+                        </div>
+                        <div>
+<input type="radio" name="turno"> Manhã
+                        </div>
+                        <div>
+<input type="radio" name="turno"> Tarde
+                        </div>
+                        <div>
+<input type="radio" name="turno"> Noite
+                        </div>
+                        <div>
+<input type="radio" name="turno"> Integral
+                        </div>
+                        <style>
+                          body{
+                            background-color:rgb(215,239,250);
+
+                          }
+                        </style>
+        </head>
+    </html>
+    </doctype html>
