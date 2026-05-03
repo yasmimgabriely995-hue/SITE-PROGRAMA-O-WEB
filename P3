@@ -1,0 +1,30 @@
+<doctype html>
+    <html>
+        <head>
+            <center>
+            <h1>História</h1>
+            <p>O Centro Estadual de Educação Profissional Professora Lourdinha Guerra é uma instituição pública de ensino localizada no estado do Rio Grande do Norte, voltada para a formação técnica e profissional de estudantes do ensino médio. A escola foi criada com o objetivo de ampliar o acesso à educação profissional gratuita, oferecendo cursos que unem o ensino médio regular à formação técnica.
+Seu nome homenageia a professora Lourdinha Guerra, reconhecida por sua contribuição à educação no estado. A instituição faz parte da rede de Centros Estaduais de Educação Profissional, que buscam preparar os jovens tanto para o mercado de trabalho quanto para a continuidade dos estudos no ensino superior.
+Com isso, o centro se destaca por oferecer uma educação integrada, ajudando os estudantes a desenvolverem conhecimentos teóricos e práticos em diversas áreas profissionais. </p>
+</center>
+ <style>
+    body{
+        background-color: rgb(215, 239, 250);
+        color: black;
+        font-size: 2rem;}
+    img{
+        right: 15%;
+        width: 15%;
+    }
+ </style>
+ </head>
+ <body>
+    <center><h1> Conhecendo nossa escola</h1></center><br><br>
+   
+    <img src="https://th.bing.com/th/id/OIP.WVeTGaXZqVtLRPsr925ZCQHaHa?w=179&h=180&c=7&r=0&o=7&pid=1.7&rm=3">
+    <img src="https://th.bing.com/th/id/OIP.1Cb2xNJcDlzC18rPr0AEQQHaEL?w=310&h=180&c=7&r=0&o=7&pid=1.7&rm=3">
+    <img src="https://th.bing.com/th/id/OIP.7VLzzc4VAHRNdnRtOLB1dwHaEL?w=323&h=182&c=7&r=0&o=7&pid=1.7&rm=3>">
+    <img src="https://th.bing.com/th/id/OIP.lOW3o7ZI4Zz_Xy7ssjUKNwHaHa?w=191&h=180&c=7&r=0&o=7&pid=1.7&rm=3">
+    <img src="https://th.bing.com/th/id/OIP.QJ9OJW8U2EW0N24IEMnZHgHaHa?w=159&h=180&c=7&r=0&o=7&pid=1.7&rm=3">
+</body>
+    </html>
