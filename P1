@@ -1,0 +1,25 @@
+<doctype html>
+    <html>
+        <head>
+          <title>Site sobre o CEEP</title>
+              <center>
+             <H1>BEM VINDO</H1>
+             <style>
+              body{ 
+                background-color:rgb(215, 239,250) ;
+                color: black;
+                font-size: 2rem;
+              }
+             </style>
+               <P>O Centro Estadual de Educação Profissional Oferece cursos técnicos de qualidade.</P>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0MgDSMKl5yXEoSy3YYFkJRDCV9w6-lyHX9w&s" width="1000"
+              </center>
+                 <nav>
+  <ul>
+   <center> <li><a href="file:///C:/Users/annym/Desktop/Anona%20trabalho%20Renan/p2renan.html">Formulário</a></li>
+    <li><a href="file:///C:/Users/annym/Desktop/Anona%20trabalho%20Renan/p3renan.html">História</a></li>
+    <li><a href="file:///C:/Users/annym/Desktop/Anona%20trabalho%20Renan/p4renan.html">Sobre o CEEP</a></li></center>
+  </ul>
+</nav>
+              </head>
+    </html>
