@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <h1> Sobre o CEEP </h1>
+        <main>
+            <p>Nossa Escola Oferece:</p>
+        </main>
+        <style>
+             body{
+                
+        background-color: rgb(215, 239, 250);
+             }
+        </style>
+
+        <ul>
+<li>Ensino Médio Público de Qualidade</li>
+<li>Cursos Técnicos de Informática e Redes de Computadores</li>
+<li>Formação Profissional</li>
+<li>Estrutura de Qualidade </li>
+<li>Prepara o Aluno para o Futuro</li>
+<li>Professores Qualificados</li>
+</ul>
+
+<main>
+    <p>Professores e Matérias Técnicas 2A Informática: </p>
+</main>
+<table>
+<tr> 
+<th>Professores</th>
+<th>Matérias</th>
+</tr>
+<tr> 
+<td>Renan</td>
+<td>Programação Web</td>
+</tr>
+<tr> 
+<td>Izaac  </td>
+<td>Banco de Dados</td>
+<tr> 
+<td>Shallon   </td>
+<td>Programação Estruturada </td>
+</tr>
+</tr>
+</table>
+    </head>
+     <center><img src="https://tse1.mm.bing.net/th/id/OIP.PMmlKigeZVynyi9JUpPSBQHaC_?pid=Api&P=0&h=180"></center>
+     <footer>
+       <center><p>© 2026 Escola Ceep</p>
+        <p>Contato: (84) 3608-2669</p>
+        <p> Endereço: R. Antônio Lopes Chaves, 2-90 - Nova Parnamirim, Parnamirim - RN, 59150-570, Brazil
+Parnamirim (Rio Grande do Norte), 59150-570</p></center>
+    </footer>
+</html>
